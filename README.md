@@ -1,7 +1,6 @@
 ## Purpose
 This is sample code associated with [DePaul SE452](http://www.cdm.depaul.edu/academics/pages/courseinfo.aspx?Subject=SE&CatalogNbr=452) project sample using airline reservation as problem domain.
 <br>
-* Milestone 1: Define the project and base structure and areas where each members will be working on
 
 ## Project Members
 
