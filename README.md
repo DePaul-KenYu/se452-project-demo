@@ -3,6 +3,7 @@ This is sample code associated with [DePaul SE452](http://www.cdm.depaul.edu/aca
 <br>
 * Milestone 1: Define the project and base structure and areas where each members will be working on
 * Milestone 2: Define the database structure
+* Milestone 3: Added Services and some relationships.  Ran into a LOT of issues due to circular dependencies.
 
 ## Project Members
 
