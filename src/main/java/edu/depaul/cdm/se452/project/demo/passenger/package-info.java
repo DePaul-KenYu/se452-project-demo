@@ -6,6 +6,7 @@
  * <li>Repository with additional finders
  * <li>Added unit tests to demonstrate repository working
  * <li>Added additional notes on services for swagger and services unit test using MockMVC
+ * <li>No additional research for NoSQL
  * </ul>
  * @author Pat
  */
